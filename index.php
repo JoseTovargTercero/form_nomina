@@ -862,7 +862,7 @@ while ($r55 = $query55->fetch_object()) {
             <div class="row mb-3">
                 <label for="foto" class="col-sm-2 col-form-label">Campo para Foto</label>
                 <div class="col-sm-10">
-                <input type="file" class="form-control" id="foto" name="foto" accept="image/jpeg, image/png" capture="environment">
+                    <input type="file" class="form-control" id="foto" name="foto" accept="image/jpeg, image/png" capture="environment">
                 </div>
             </div>
 
